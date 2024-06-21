@@ -1,0 +1,31 @@
+.kepoya{
+  font-family: Monospace;
+  text-align: center;
+  background-color: white;
+  border: 2px,solid black;
+  font-size: 50px;
+  position: relative;
+  top: 1wvh;
+}
+body{
+  background-color: pink;
+}
+.jikaiya{
+  background-color: white;
+  font-family: Monospace;
+  border: 2px,solid;
+  text-align: center;
+}
+.jikatidak{
+  background-color: white;
+  font-family: Monospace;
+  border: 2px,solid;
+  text-align: center;
+}
+.tentukan{
+  background-color: white;
+  font-family: Monospace;
+  border: 2px,solid;
+  text-align: center;
+}
+  

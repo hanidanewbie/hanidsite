@@ -1,0 +1,23 @@
+.gagal{
+  font-family: Monospace;
+  text-align: center;
+  color: red;
+}
+body{
+  background-color: black;
+}
+.kembali{
+  font-family: Monospace;
+  text-align: center;
+  font-size: 30px;
+  background-color: violet;
+  color: red;
+  border:2px,solid;
+}
+.semangat{
+  width: 500px;
+  height: 500px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+

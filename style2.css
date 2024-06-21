@@ -1,0 +1,23 @@
+.kata{
+  font-family: Monospace;
+  text-align: center;
+  border:2px,solid;
+  background-color:white;
+}
+body{
+  background-color: pink;
+}
+.love{
+  width: 50vh;
+  margin-top:-105px;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+.pencet{
+  font-family: Monospace;
+  text-align: center;
+  font-size: 50px;
+  background-color: white;
+  border: 2px,solid black;
+}

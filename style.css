@@ -1,0 +1,33 @@
+body{
+  background-color: pink;
+  
+}
+.kepala{
+  font-family: Monospace;
+  text-align: center;
+  font-size: 30px;
+  border:2px,solid;
+  background-color:white;
+}
+.kata{
+  text-align:center;
+  background: white;
+  position: relative;
+  top: 50vh;
+  font-family: Monospace;
+  font-size: 50px;
+  border: 2px,solid black;
+  
+}
+.pentol{
+  width: 30vh;
+  margin-block-start: 30px;
+}
+.surprise{
+  font-family:Monospace;
+  text-align:center;
+  position:relative;
+  top:-440px;
+  border:2px,solid;
+  background-color:white;
+}

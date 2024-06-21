@@ -1,0 +1,32 @@
+.gambar{
+  width:339px;
+  height:400px;
+  margin-right:10px;
+  margin-left:10px;
+  border:8px,solid white;
+}
+body{
+  background-color:pink;
+}
+.box1{
+  font-family:Monospace;
+  text-align:center;
+  
+}
+.katakata{
+  font-family:Monospace;
+  text-align:center;
+  
+}
+.wame{
+  font-family:Monospace;
+  text-align:center;
+  background-color:white;
+  border:2px,solid;
+}
+.bergerak{
+  background-color:white;
+  color:red;
+  border:3px,solid black;
+  font-family:Monospace;
+}
